@@ -1,3 +1,11 @@
-# Dashboard
+# ChatApp
 
-Trying to build a full english website that can organize your tasks!
+Mostrando alguns dos meus conhecimentos montando um app com chat. 
+
+Criando um chat que todos podem mandar mensagem e criar threads.
+
+Testes unitarios 
+
+integrações com api do google 
+
+
